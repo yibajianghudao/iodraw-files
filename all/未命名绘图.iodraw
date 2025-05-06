@@ -217,7 +217,7 @@
           <mxGeometry x="320" y="563" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-73" value="扩展分区表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="665" width="81" height="30" as="geometry" />
+          <mxGeometry x="240" y="665" width="81" height="25" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-75" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -238,7 +238,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-78" value="扩展引导记录(EBR)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="250.5" y="695" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="695" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-79" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,9 +326,12 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-101" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="722" as="sourcePoint" />
+            <mxPoint x="460" y="760" as="sourcePoint" />
             <mxPoint x="460" y="665" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-103" value="逻辑驱动器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="725" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

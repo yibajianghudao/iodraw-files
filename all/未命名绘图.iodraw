@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="24.7.17">
   <diagram name="第 1 页" id="e7wd_ncLVa1GDWbGgyJz">
-    <mxGraphModel dx="1389" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-30" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="720" as="sourcePoint" />
+            <mxPoint x="-120" y="800" as="sourcePoint" />
             <mxPoint x="-120" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -164,12 +164,12 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-44" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="722" as="sourcePoint" />
+            <mxPoint y="800" as="sourcePoint" />
             <mxPoint y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-47" value="基本分区一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-89.5" y="680" width="69.5" height="30" as="geometry" />
+          <mxGeometry x="-120" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-50" value="引导扇区" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry y="563" width="20" height="100" as="geometry" />
@@ -179,12 +179,12 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-53" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="722" as="sourcePoint" />
+            <mxPoint x="120" y="800" as="sourcePoint" />
             <mxPoint x="120" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-54" value="基本分区二" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="30.5" y="680" width="69.5" height="30" as="geometry" />
+          <mxGeometry y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-56" value="引导扇区" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="119.31" y="563" width="20" height="100" as="geometry" />
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-60" value="基本分区三" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="149.81" y="680" width="69.5" height="30" as="geometry" />
+          <mxGeometry x="120" y="770" width="90.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-68" value="第一分区表项" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="563" width="20" height="100" as="geometry" />
@@ -530,6 +530,9 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-176" value="最后一个逻辑驱动器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="680" y="725" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-177" value="扩展分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -54,7 +54,7 @@
         <mxCell id="C1MD4gX62WLRkBIK-UEL-24" value="&lt;div&gt;0&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;5&lt;/div&gt;&lt;div&gt;5&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" parent="1" vertex="1">
           <mxGeometry x="-140" y="563" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="C1MD4gX62WLRkBIK-UEL-25" value="分区表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-25" value="&lt;div&gt;64Byte&lt;/div&gt;&lt;div&gt;分区表&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-220" y="665" width="81" height="25" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-29" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="C1MD4gX62WLRkBIK-UEL-11" edge="1">
@@ -408,6 +408,9 @@
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-198" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MBR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="295" y="433" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q7fH0x76BGNBCEPbNQO-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;446Byte&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="663" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

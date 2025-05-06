@@ -105,14 +105,41 @@
         <mxCell id="C1MD4gX62WLRkBIK-UEL-11" value="&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;主引导记录&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="-240" y="563" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="C1MD4gX62WLRkBIK-UEL-19" target="C1MD4gX62WLRkBIK-UEL-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="543" />
+              <mxPoint x="-110" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-19" value="第一分区表项" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="-220" y="563" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="C1MD4gX62WLRkBIK-UEL-20" target="C1MD4gX62WLRkBIK-UEL-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="530" />
+              <mxPoint x="10" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-20" value="&lt;div align=&quot;center&quot;&gt;第二分区表项&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="-200" y="563" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="C1MD4gX62WLRkBIK-UEL-22" target="C1MD4gX62WLRkBIK-UEL-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="520" />
+              <mxPoint x="129" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-22" value="&lt;div align=&quot;center&quot;&gt;第三分区表项&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="-180" y="563" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="C1MD4gX62WLRkBIK-UEL-23" target="C1MD4gX62WLRkBIK-UEL-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-23" value="&lt;div align=&quot;center&quot;&gt;第四分区表项&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="563" width="20" height="100" as="geometry" />
@@ -430,8 +457,8 @@
         <mxCell id="C1MD4gX62WLRkBIK-UEL-184" value="第二分区表指向下一个逻辑分区的EBR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C1MD4gX62WLRkBIK-UEL-185" value="最后一个逻辑分区的二三四分区表均未使用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="745" y="520" width="80" height="30" as="geometry" />
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-185" value="&lt;div align=&quot;center&quot;&gt;最后一个逻辑分区的二三四分区表均未使用&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

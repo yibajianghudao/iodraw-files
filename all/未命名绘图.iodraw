@@ -424,7 +424,7 @@
         <mxCell id="C1MD4gX62WLRkBIK-UEL-177" value="扩展分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="240" y="770" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C1MD4gX62WLRkBIK-UEL-183" value="第一分区表指向当前引导分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="C1MD4gX62WLRkBIK-UEL-183" value="第一分区表指向当前逻辑分区本身的引导扇区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="251" y="480" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C1MD4gX62WLRkBIK-UEL-184" value="第二分区表指向下一个拓展分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
